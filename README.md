@@ -1,5 +1,16 @@
 # IdiomaFácil — MVP Prototipo
 
+<p align="left">
+  <a href="https://opensource.org">📄 <b>License: MIT</b></a> | 
+  <a href="https://android.com">🤖 <b>Platform: Android</b></a> | 
+  <a href="https://mozilla.org">🌐 <b>Tech: PWA</b></a> | 
+  🔷 <b>TypeScript</b> | 
+  🐍 <b>Python</b> | 
+  🎨 <b>CSS3</b>
+</p>
+
+
+
 > **PS-011 · Transformación del Mockup Funcional en Prototipo de Aplicación**
 > Autor: José Arnulfo Céspedes Albornoz · 2026-08-26
 > Stack: React 18 + TypeScript + Vite 6 + Tailwind CSS 4 + Recharts + vite-plugin-pwa
